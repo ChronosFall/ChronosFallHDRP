@@ -35,3 +35,8 @@ Thumbs.db
 
 # Asset Store Tools
 /[Aa]ssets/AssetStoreTools*
+
+#外部Assets
+VRM10/
+UniGLTF/
+TextMesh Pro/
